@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @Thuranira287
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on programming 
-- 📫 How to reach me alexanderthuranira287@gmail.com
-- WhatsApp me 254716227616
+# Hi there 👋, I'm Alexander Zachary (@Thuranira287)
 
-<!---
-Thuranira287/Thuranira287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#🚀 About Me
+- 👀 Passionate about programming, software development, and technology
+- 🌱 Currently learning and growing my skills in Python, Java, C++, Web Development (Django, React, Node.js)
+- 💡 Interested in **backend development, cybersecurity, and AI-powered applications
+- 💞️ Open to collaborating on open-source projects, web applications, and educational tech tools
+- 📚 Always curious to explore new technologies and improve my problem-solving skills  
+
+#📫 How to Reach Me
+- Email: alexanderthuranira287@gmail.com
+
+#⚡ Fun Fact
+
+I love building projects that solve real-world problems and help people learn technology in creative ways.
